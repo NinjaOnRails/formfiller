@@ -1,0 +1,1 @@
+Using pyautogui module, automatically fills in the form. In detail: Clicks the first text field of the form. Moves through the form, typing information into each field. Clicks the Submit button. Repeats the process with the next set of data. Tested specifically on Chrome macOS Sierra MBA 11inch. Browser must be open in the upper left corner. This form: http://autbor.com/form
